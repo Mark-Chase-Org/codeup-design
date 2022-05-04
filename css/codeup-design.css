@@ -1,3 +1,8 @@
+.main-line {
+    border-bottom: 3px solid #e6e6e6;
+    width: 80%;
+    visibility: visible;
+}
 .logo {
     width: 50px;
     height: 50px;
@@ -33,9 +38,7 @@ h3 {
     background: #E6563B;
     color: white;
     font-weight: bold;
-    display: inline-block;
     border: 8px solid white;
-    margin: 20px;
 }
 
 .yellow-dot{
@@ -45,9 +48,7 @@ h3 {
     background: #EB9D3A;
     color: white;
     font-weight: bold;
-    display: inline-block;
     border: 8px solid white;
-    margin: 20px;
 }
 
 .green-dot{
@@ -57,9 +58,7 @@ h3 {
     background: #7CB06C;
     color: white;
     font-weight: bold;
-    display: inline-block;
     border: 8px solid white;
-    margin: 20px;
 }
 
 .blue-dot{
@@ -69,7 +68,5 @@ h3 {
     background: #00ABA9;
     color: white;
     font-weight: bold;
-    display: inline-block;
     border: 8px solid white;
-    margin: 20px;
 }
