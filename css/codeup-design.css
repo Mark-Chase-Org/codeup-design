@@ -1,0 +1,75 @@
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+
+.abel {
+    font-family: abel, sans-serif;
+}
+
+h1{
+    font-family: anton, sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: anton, sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: anton, sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.coral-dot{
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    background: #E6563B;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    border: 8px solid white;
+    margin: 20px;
+}
+
+.yellow-dot{
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    background: #EB9D3A;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    border: 8px solid white;
+    margin: 20px;
+}
+
+.green-dot{
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    background: #7CB06C;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    border: 8px solid white;
+    margin: 20px;
+}
+
+.blue-dot{
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    background: #00ABA9;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    border: 8px solid white;
+    margin: 20px;
+}
