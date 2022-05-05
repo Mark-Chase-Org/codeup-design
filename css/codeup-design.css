@@ -29,10 +29,6 @@ h3 {
     font-size: 1.5em;
 }
 
-.resize > img {
-    width: 50%;
-}
-
 .large-dot {
     height: 105px;
     width: 105px;
@@ -45,14 +41,15 @@ h3 {
 }
 
 .sm-dot {
-    height: 30px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
     border-radius: 50%;
     color: black;
     font-weight: bold;
     display: inline-block;
-    margin: 20px;
-    line-height: 28px;
+    margin: 2px;
+    line-height: 20px;
+    font-size: 12px;
 }
 
 .coral {
@@ -69,4 +66,8 @@ h3 {
 
 .blue {
     background: #00ABA9;
+}
+
+.hidden{
+    display: none;
 }
